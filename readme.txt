@@ -13,24 +13,26 @@ Version: 1.0
 License: GPLv2 or later
 
 == Description ==
-= This plugin can add a ProcessingJS sketch to your post or page =
+= Insert a ProcessingJS sketch (http://processingjs.org) to your post or page with this plugin =
 You can use the shorttag (<strong>[pjs4wp]...[/pjs4wp]</strong>) in two different ways:<br />
 <br />
-1) Put the actual ProcessingJS code in a post or page, for instance:<br />
+<strong>1) Put the actual ProcessingJS code in a post or page, for instance:</strong><br />
+<br />
 [pjs4wp]<br />
 void setup()<br />
 {<br />
-	size(200, 200);<br />
- 	text("Hello world!", 50, 50);<br />
+&nbsp;&nbsp;size(200, 200);<br />
+&nbsp;&nbsp;text("Hello world!", 50, 50);<br />
 }<br />
 [/pjs4wp]<br />
 <br />
-2) Use an existing ProcessingJS .pde sketch like this:<br />
-[pjs4wp url="/wp-content/uploads/my_sketch.js" bordercolor="#888"][/pjs4wp]<br />
+<strong>2) Use an existing ProcessingJS .pde sketch like this:</strong><br />
+<br />
+[pjs4wp url="/wp-content/uploads/my_sketch.js" bordercolor="#000"][/pjs4wp]<br />
 <br />
 <strong>IMPORTANT:</strong><br />
-RENAME YOUR .pde FILE TO .js BEFORE UPLOADING!<br />
-So in the example: rename your original my_sketch.pde file to my_sketch.js!<br />
+RENAME YOUR <strong>.pde</strong> FILE TO <strong>.js</strong> BEFORE UPLOADING!<br />
+So in the example: rename your original <strong>my_sketch.pde</strong> file to <strong>my_sketch.js</strong>!<br />
 Some servers / browsers are not happy with the .pde extension, that's why...
 
 = Example =
@@ -61,7 +63,7 @@ http://cagewebdev.com/index.php/wordpress-plugins/
 == Frequently asked questions ==
 
 = How can I change the settings of this plugin? =
-* This plugins doesn't need any settings
+* This plugin doesn't need any settings
 
 = How do I use this plugin? =
 
@@ -69,22 +71,25 @@ This plugin uses the <strong>[pjs4wp]</strong> shorttag<br />
 <br />
 You can use the shorttag in two different ways<br />
 <br />
-1) Put the actual ProcessingJS code in a post or page, for instance:<br />
+<strong>1) Put the actual ProcessingJS code in a post or page, for instance:</strong><br />
+<br />
 [pjs4wp]<br />
 void setup()<br />
 {<br />
-	size(200, 200);<br />
- 	text("Hello world!", 50, 50);<br />
+&nbsp;&nbsp;size(200, 200);<br />
+&nbsp;&nbsp;text("Hello world!", 50, 50);<br />
 }<br />
 [/pjs4wp]<br />
 <br />
-2) Use an existing ProcessingJS .pde sketch like this<br />
-[pjs4wp url="/wp-content/uploads/my_sketch.js" bordercolor="#888"][/pjs4wp]<br />
-IMPORTANT:<br />
+<strong>2) Use an existing ProcessingJS .pde sketch like this:</strong><br />
+<br />
+[pjs4wp url="/wp-content/uploads/my_sketch.js" bordercolor="#000"][/pjs4wp]<br />
+<br />
+<strong>IMPORTANT:</strong><br />
 RENAME YOUR <strong>.pde</strong> FILE TO <strong>.js</strong> BEFORE UPLOADING!<br />
 So in the example: rename your original <strong>my_sketch.pde</strong> file to <strong>my_sketch.js</strong>!<br />
 Some servers / browsers are not happy with the .pde extension, that's why...
 
 == Changelog ==
-= v1.0 [04/22/2015] =
+= v1.0 [04/24/2015] =
 * Initial release
