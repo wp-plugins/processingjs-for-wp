@@ -13,7 +13,7 @@ Version: 1.0
 License: GPLv2 or later
 
 == Description ==
-= Insert a ProcessingJS sketch (http://processingjs.org) to your post or page with this plugin =
+= Embed a ProcessingJS sketch (http://processingjs.org) in your post or page with this plugin =
 You can use the shorttag (<strong>[pjs4wp]...[/pjs4wp]</strong>) in two different ways:<br />
 <br />
 <strong>1) Put the actual ProcessingJS code in a post or page, for instance:</strong><br />
