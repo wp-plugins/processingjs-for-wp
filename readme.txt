@@ -8,8 +8,8 @@ Author URI: http://rvg.cage.nl
 Author: CAGE Web Design | Rolf van Gelder, Eindhoven, The Netherlands
 Requires at least: 2.8
 Tested up to: 4.2
-Stable tag: 1.0
-Version: 1.0
+Stable tag: 1.1
+Version: 1.1
 License: GPLv2 or later
 
 == Description ==
@@ -91,5 +91,8 @@ So in the example: rename your original <strong>my_sketch.pde</strong> file to <
 Some servers / browsers are not happy with the .pde extension, that's why...
 
 == Changelog ==
+= v1.1 [04/26/2015] =
+* NEW: Instructions page added (from plugins page)
+
 = v1.0 [04/24/2015] =
 * Initial release
