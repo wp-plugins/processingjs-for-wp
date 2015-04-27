@@ -7,7 +7,7 @@ Tags: processing, processing.org, processingjs, html5, javascript, jQuery, pjs4w
 Author URI: http://rvg.cage.nl
 Author: CAGE Web Design | Rolf van Gelder, Eindhoven, The Netherlands
 Requires at least: 2.8
-Tested up to: 4.2
+Tested up to: 4.2.1
 Stable tag: 1.1
 Version: 1.1
 License: GPLv2 or later
