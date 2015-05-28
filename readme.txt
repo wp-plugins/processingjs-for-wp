@@ -1,13 +1,13 @@
 === ProcessingJS for WordPress ===
 Contributors: CAGE Web Design | Rolf van Gelder
-Donate link: http://cagewebdev.com/index.php/donations/
+Donate link: http://cagewebdev.com/index.php/donations-pjs4wp/
 Plugin Name: PJS4WP (ProcessingJS for WordPress)
 Plugin URI: http://cagewebdev.com/processingjs-for-wp
 Tags: processing, processing.org, processingjs, html5, javascript, jQuery, pjs4wp
 Author URI: http://rvg.cage.nl
 Author: CAGE Web Design | Rolf van Gelder, Eindhoven, The Netherlands
 Requires at least: 2.8
-Tested up to: 4.2.1
+Tested up to: 4.2.2
 Stable tag: 1.1
 Version: 1.1
 License: GPLv2 or later
