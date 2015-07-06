@@ -2,14 +2,14 @@
 Contributors: CAGE Web Design | Rolf van Gelder
 Donate link: http://cagewebdev.com/index.php/donations-pjs4wp/
 Plugin Name: PJS4WP (ProcessingJS for WordPress)
-Plugin URI: http://cagewebdev.com/processingjs-for-wp
+Plugin URI: http://cagewebdev.com/processingjs-for-wordpress
 Tags: processing, processing.org, processingjs, html5, javascript, jQuery, pjs4wp
 Author URI: http://rvg.cage.nl
 Author: CAGE Web Design | Rolf van Gelder, Eindhoven, The Netherlands
 Requires at least: 2.8
 Tested up to: 4.2.2
-Stable tag: 1.1
-Version: 1.1
+Stable tag: 1.2
+Version: 1.2
 License: GPLv2 or later
 
 == Description ==
@@ -43,10 +43,10 @@ http://rvg.cage.nl/rvglife-internet-2014/
 CAGE Web Design | Rolf van Gelder, Eindhoven, The Netherlands - http://cagewebdev.com - http://rvg.cage.nl
 
 = Plugin URL =
-http://cagewebdev.com/processingjs-for-wp
+http://cagewebdev.com/processingjs-for-wordpress
 
 = Download URL =
-http://wordpress.org/plugins/processingjs-for-wp
+http://wordpress.org/plugins/processingjs-for-wordpress
 
 = Disclaimer =
 NO WARRANTY, USE IT AT YOUR OWN RISK!
@@ -91,6 +91,9 @@ So in the example: rename your original <strong>my_sketch.pde</strong> file to <
 Some servers / browsers are not happy with the .pde extension, that's why...
 
 == Changelog ==
+= v1.2 [06/15/2015] =
+* CHANGE: Code has been revamped
+
 = v1.1 [04/26/2015] =
 * NEW: Instructions page added (from plugins page)
 
